@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Peize Yang | AI & Robotics Researcher"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 # Peize Yang (杨佩泽)
 
 🚀 **AI Researcher & Robotics Engineer**  
